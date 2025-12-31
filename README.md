@@ -44,7 +44,7 @@ Por esa razón el código contiene funciones similares repetidas, aunque cumple 
 ## Comentarios finales
 
 Los archivos del proyecto están incluidos en este repositorio para que cualquier persona pueda descargarlos y compilarlos localmente en **Qt** con las librerías **muParser** y **QCustomPlot**.  
-De esta manera, es posible revisar el código, ejecutar la aplicación y comprobar tanto la evaluación de funciones como la representación gráfica y las operaciones entre ellas.
+De esta manera, es posible revisar el código, ejecutar la aplicación y comprobar tanto la evaluación de funciones como la representación gráfica y las operaciones entre ellas. Se agrego la carpeta [QtParserPlot.zip](https://github.com/SantiagoBaeza/Calculadora-de-funciones-en-Qt-muParser-QCustomPlot-/blob/main/QtParserPlot.zip) la cual contiene la DLL de QCustomPlot y tambien contiene las de MuParser las cuales se van a usar en el futuro, con el fin de que esta DLL sea reutilizable las coloque ambas en el mismo lugar, esa carpeta se debe colocar junto a las carpetas del disco local C: (del ordenador) para acceder desde el codigo ahi.  
 
 ---
 
