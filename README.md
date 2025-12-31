@@ -17,7 +17,7 @@ Por esa razón el código contiene funciones similares repetidas, aunque cumple 
 ## Capturas
 
 - **Captura 01**: Interfaz mostrando dos funciones graficadas y operaciones realizadas entre ellas.  
-  ![Interfaz](screenshot.png)
+  ![Interfaz](https://github.com/SantiagoBaeza/Calculadora-de-funciones-en-Qt-muParser-QCustomPlot-/blob/main/captura.jpg)
 
 ---
 
